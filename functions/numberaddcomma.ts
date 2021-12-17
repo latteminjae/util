@@ -1,3 +1,4 @@
+// (1000: number): 1,000
 export function numberAddComma(number: number): string {
   return `${number}`
     .split("")
